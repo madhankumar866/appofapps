@@ -9,6 +9,10 @@ config:
 applications:
   - name: lily
     path: FlowerGarden/charts/Lily
+  - name: rose
+    path: FlowerGarden/charts/Rose
+  - name: Sunflower
+    path: FlowerGarden/charts/Sunflower
 
   # - name: blue-green
   #   tool:
