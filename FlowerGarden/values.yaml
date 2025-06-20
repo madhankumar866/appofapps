@@ -11,7 +11,7 @@ applications:
     path: FlowerGarden/charts/Lily
   - name: rose
     path: FlowerGarden/charts/Rose
-  - name: Sunflower
+  - name: sunflower
     path: FlowerGarden/charts/Sunflower
 
   # - name: blue-green
