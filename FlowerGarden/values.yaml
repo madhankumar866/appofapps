@@ -7,10 +7,13 @@ config:
       targetRevision: master
 
 applications:
-  - name: blue-green
-    tool:
-      helm:
-        releaseName: blue-green
+  - name: lily
+    path: FlowerGarden/charts/Lily
+
+  # - name: blue-green
+  #   tool:
+  #     helm:
+  #       releaseName: blue-green
   # - name: guestbook
   # - name: helm-dependency
   #   tool:
