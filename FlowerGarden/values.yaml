@@ -1,6 +1,8 @@
 config:
   spec:
+    project: default
     destination:
+      namespace: appsofapps
       server: https://kubernetes.default.svc
     source:
       repoURL: https://github.com/madhankumar866/appofapps
